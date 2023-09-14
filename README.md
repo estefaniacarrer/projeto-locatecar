@@ -1,7 +1,7 @@
 # ADA LocateCar - Locadora de veículos
 Criar uma aplicação que gerencie o aluguel de veículos, aplicando os conceitos vistos em aula, onde cada item abaixo seja considerado:
 
-🚩Itens obrigatórios<br>
+## 🚩Itens obrigatórios<br>
 
 ✅Cadastrar os veículos;<br>
 ✅Alterar um veículo cadastrado;<br>
@@ -11,7 +11,7 @@ Criar uma aplicação que gerencie o aluguel de veículos, aplicando os conceito
 ✅Alugar um veículo para pessoa física e jurídica;<br>
 ✅Devolver um veículo para pessoa física e jurídica;<br>
 
-🚩Regras de negócio<br>
+## 🚩Regras de negócio<br>
 
 ▪️ RN1: Os veículos não podem ser repetidos; Pode utilizar a placa como identificador de unicidade;<br>
 ▪️ RN2: Tipos de veículos que serão considerados: PEQUENO, MEDIO e SUV;<br>
@@ -23,14 +23,17 @@ Criar uma aplicação que gerencie o aluguel de veículos, aplicando os conceito
 Caso o cliente pessoa física tenha ficado com o carro mais que 5 diárias terá direito a 5% de desconto.<br>
 Caso o cliente pessoa jurídica tenha ficado com o carro mais que 3 diárias terá direito a 10% de desconto.<br>
 
-🚩Valores base da diária por tipo de veículo:<br>
+## 🚩Valores base da diária por tipo de veículo:<br>
 
 Tipo de Veículo	Valor por dia<br>
-PEQUENO	R$ 100,00<br>
-MEDIO	R$ 150,00<br>
-SUV	R$ 200,00<br>
+PEQUENO	    R$ 100,00<br>
+MEDIO	      R$ 150,00<br>
+SUV	        R$ 200,00<br>
 
 
-🚩Entrega:<br>
+## 🚩Entrega:<br>
 
 O projeto pode possuir um menu iterativo ou uma classe com o método main contendo a exemplificação das funcionalidades.
+
+## Requisitos Técnicos:
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java 19 ou superior
